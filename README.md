@@ -147,7 +147,7 @@ Requires Web Crypto API support.
 
 ## Related
 
-- [Backend Repository]https://github.com/rahulzephyr/share-my-doc-backend)
+- [Backend Repository](https://github.com/rahulzephyr/share-my-doc-backend)
 
 ## License
 
